@@ -1,13 +1,11 @@
-Analisa Dataset Sosial Ekonomi Negara Indonesia
+<h1>Tugas UAS Big Data</h1>
+<h2>Analisis Dataset Sosial Ekonomi</h2>
 
-Kelompok 10
-
-Sidik Riffani           312110467 
-
-Rangga Aditiya          312110123
-
-Maftuhin Amanulloh      312110160
-
-Ogie Kukuh Y            312110472
-
-Terima Kasih
+bash
+Kelompok 10     : - Sidik Riffani
+		  - Rangga Aditiya
+		  - Maftuhin Amanulloh
+		  - Ogie Kukuh Y
+Kelas           : TI. 21. A3
+Mata Kuliah     : Big Data
+Dosen Pengampu  : Dr. Ir. Ananto Tri Sasongko, M.Sc.
