@@ -1,6 +1,6 @@
-#Analisa Dataset Sosial Ekonomi Negara Indonesia
+Analisa Dataset Sosial Ekonomi Negara Indonesia
 
-##Kelompok 10
+Kelompok 10
 
 Sidik Riffani           312110467 
 
